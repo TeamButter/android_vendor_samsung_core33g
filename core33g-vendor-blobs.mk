@@ -21,6 +21,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/core33g/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
     vendor/samsung/core33g/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/core33g/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
+    vendor/samsung/core33g/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/samsung/core33g/proprietary/lib/libisp.so:system/lib/libisp.so \
     vendor/samsung/core33g/proprietary/lib/libmorpho_easy_hdr.so:system/lib/libmorpho_easy_hdr.so \
     vendor/samsung/core33g/proprietary/lib/libuvdenoise.so:system/lib/libuvdenoise.so \
